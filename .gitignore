@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de datos grandes
+*.csv
+*.xlsx
+*.db
+data/
+
+# Variables de entorno
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
