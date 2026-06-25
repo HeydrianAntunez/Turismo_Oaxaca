@@ -1,5 +1,8 @@
 El siguiente proyecto representa una aproximación al uso de datos público de la SECTUR para el análisis regional de centros turísticos.
+
 Los datos fueron obtenidos de: https://www.datos.gob.mx/dataset/ocupacion_hotelera_70_destinos_principales_monitoreados_datatur/resource/53fd6153-84c7-4485-ae32-62112251c1a4
 Es indispensable entender que este proyecto representa una forma práctica de análisis de este sector, por lo que debe tenerse en cuenta su caracter general. De este modo, si se busca una investigación más intensiva, es preferible usar formas de tasación construcción de métricas utilizadas por esta secretaría o cualquier otra institución de carácter público especializada en el tema.
+
 En el archivo Notebook se utilizan paqueterías como data_profiling para generar aplicaciones de reportes de dataset, útiles para exploraciones de datos e identificación de anomalías en los registros. Para su uso, se documentan las versiones de librerías adecuadas en el archivo requirements.txt.
+
 En resumen: el principal cometido de este proyecto es limpiar, explorar y hacer un análisis gráfico del sector turístico, por lo que cualquier otro tema queda fuera de su alcance.
